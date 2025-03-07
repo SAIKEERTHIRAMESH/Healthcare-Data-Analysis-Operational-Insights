@@ -38,3 +38,10 @@ By leveraging **SQL, Python, and Power BI**, this project showcases how data ana
 
 This project demonstrates the power of **healthcare analytics** in **improving patient outcomes, hospital efficiency, and overall healthcare management**.  
 
+## **Dashboard Overview**  
+Below is a snapshot of the Power BI dashboard visualizing key healthcare insights:  
+
+![Power BI Dashboard](https://github.com/user-attachments/assets/cf622269-4630-421d-9998-d1bb42a13558)
+
+
+
